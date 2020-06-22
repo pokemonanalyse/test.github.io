@@ -100,6 +100,23 @@ end
 
 ![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
+![Branching](/assets/images/600dpiコミックB5のコピー.png)
+![Branching](/assets/images/600dpiコミックB5のコピー2.png)
+![Branching](/assets/images/600dpiコミックB5のコピー3.png)
+![Branching](/assets/images/600dpiコミックB5のコピー4.png)
+![Branching](/assets/images/600dpiコミックB5のコピー5.png)
+![Branching](/assets/images/600dpiコミックB5のコピー6.png)
+![Branching](/assets/images/600dpiコミックB5のコピー7.png)
+![Branching](/assets/images/600dpiコミックB5のコピー8.png)
+![Branching](/assets/images/600dpiコミックB5のコピー9.png)
+![Branching](/assets/images/600dpiコミックB5のコピー10.png)
+![Branching](/assets/images/600dpiコミックB5のコピー11.png)
+![Branching](/assets/images/600dpiコミックB5のコピー12.png)
+![Branching](/assets/images/600dpiコミックB5のコピー13.png)
+![Branching](/assets/images/600dpiコミックB5のコピー14.png)
+![Branching](/assets/images/600dpiコミックB5のコピー15.png)
+![Branching](/assets/images/600dpiコミックB5のコピー16.png)
+
 
 ### Definition lists can be used with HTML syntax.
 
