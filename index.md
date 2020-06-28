@@ -106,18 +106,6 @@ test
 ![Branching](/assets/images/00002.png)
 ![Branching](/assets/images/00003.png)
 ![Branching](/assets/images/00004.png)
-![Branching](/assets/images/00005.png)
-![Branching](/assets/images/00006.png)
-![Branching](/assets/images/00007.png)
-![Branching](/assets/images/00008.png)
-![Branching](/assets/images/00009.png)
-![Branching](/assets/images/00010.png)
-![Branching](/assets/images/00011.png)
-![Branching](/assets/images/00012.png)
-![Branching](/assets/images/00013.png)
-![Branching](/assets/images/00014.png)
-![Branching](/assets/images/00015.png)
-![Branching](/assets/images/00016.png)
 
 ### Definition lists can be used with HTML syntax.
 
