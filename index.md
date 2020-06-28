@@ -102,10 +102,10 @@ end
 
 test
 
-![Branching](/assets/images/00000のコピー9.png)
-![Branching](/assets/images/00000のコピー10.png)
-![Branching](/assets/images/00000のコピー11.png)
-![Branching](/assets/images/00000のコピー12.png)
+![Branching](/assets/images/test5.png)
+![Branching](/assets/images/test6.png)
+![Branching](/assets/images/test7.png)
+![Branching](/assets/images/test8.png)
 
 ### Definition lists can be used with HTML syntax.
 
