@@ -104,8 +104,8 @@ test
 
 ![Branching](/assets/images/a5.png)
 ![Branching](/assets/images/b4.png)
-![Branching](/assets/images/c2.png)
-![Branching](/assets/images/d4.png)
+![Branching](/assets/images/c3.png)
+![Branching](/assets/images/d5.png)
 
 ### Definition lists can be used with HTML syntax.
 
