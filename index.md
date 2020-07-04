@@ -103,7 +103,7 @@ end
 test
 
 ![Branching](/assets/images/a4.png)
-![Branching](/assets/images/b3.png)
+![Branching](/assets/images/b4.png)
 ![Branching](/assets/images/c2.png)
 ![Branching](/assets/images/d4.png)
 
